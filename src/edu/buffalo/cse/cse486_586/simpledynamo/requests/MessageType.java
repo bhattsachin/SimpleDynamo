@@ -1,0 +1,6 @@
+package edu.buffalo.cse.cse486_586.simpledynamo.requests;
+
+public enum MessageType {
+	HEARTBEAT, INSERT, QUERY, REPLICATE, INSERTSLAVED, QUERYSLAVED, QUERYRESPONSE, BACKUP, ACK, COORDINATEQUERY, COORDINATEINSERT
+
+}

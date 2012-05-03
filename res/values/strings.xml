@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Kindly re-run system to verify correctness. A minor bug is causing some random socket to die which might effect your view </string>
+    <string name="app_name">SimpleDynamo</string>
+    <string name="put1">put1</string>
+    <string name="put2">put2</string>
+    <string name="put3">put3</string>
+    <string name="get">get</string>
+    <string name="dump">dump</string>
+    <string name="output">console window</string>
+
+</resources>
